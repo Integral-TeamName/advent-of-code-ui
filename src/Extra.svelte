@@ -1,0 +1,4 @@
+<h2>
+	Add components
+</h2>
+Just below the gray bar on the left side are the list of components in the app. This app has two components, an App.svelte and Extra.svelte (where this text is pulled from). You can click and drag the names of the components to order them visually, and the clicking on the plus sign to the right of the component names will add a new blank component (or script).  If you want a deep dive into using an app with multiple components and stuff to play with you can try the app here: <a href="https://svelte.dev/repl/253ddd578806497b8b54c339490f8221?version=3.22.3" target="_blank">https://svelte.dev/repl/253ddd578806497b8b54c339490f8221?version=3.22.3</a>
